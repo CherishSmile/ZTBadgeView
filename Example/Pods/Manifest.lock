@@ -1,0 +1,16 @@
+PODS:
+  - ZTBadgeView (0.1.0)
+
+DEPENDENCIES:
+  - ZTBadgeView (from `../`)
+
+EXTERNAL SOURCES:
+  ZTBadgeView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZTBadgeView: 9d56ddfcacc653bf511e0b6c5f75099023680b93
+
+PODFILE CHECKSUM: a1409b57bc175902d921859129c4e0654aa7c7c4
+
+COCOAPODS: 1.10.1

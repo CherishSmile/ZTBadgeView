@@ -1,0 +1,6 @@
+framework module Pods_ZTBadgeView_Tests {
+  umbrella header "Pods-ZTBadgeView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
