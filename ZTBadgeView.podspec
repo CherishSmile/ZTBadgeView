@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZTBadgeView'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'ZTBadgeView is the basic framework of OC project.'
   s.homepage         = 'https://github.com/CherishSmile/ZTBadgeView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
@@ -23,6 +23,5 @@ Pod::Spec.new do |s|
   
   s.source_files = 'ZTBadgeView/ZTBadgeView.framework/Headers/*.{h}'
   s.vendored_frameworks = 'ZTBadgeView/ZTBadgeView.framework'
-  s.public_header_files = 'ZTBadgeView/ZTBadgeView.framework/Headers/*.{h}'
 
 end
